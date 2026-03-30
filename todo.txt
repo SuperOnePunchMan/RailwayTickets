@@ -1,0 +1,16 @@
+create a virtual environnment✅
+1.Setup flask-restx API✅
+2. set the configuration
+3. create the modelfor the train ticket API
+4.  create your database
+5. create the authentication service
+6. create the authentication route
+7. create the ticket system service
+8. create the ticket system
+ 
+
+ticket booking
+1. select the destination to and from
+2. select the date 
+3. show the number of available seats  in each coaches
+4. book the seats 
